@@ -1,0 +1,26 @@
+.intro {
+    color: #082576;
+    text-align: center;
+    background-color: rgb(255, 38, 0);
+    padding: 20px;
+    border: black 5px;
+    border-style: none none solid;
+}
+
+.passwordBox {
+    height: 200px;
+    width: auto;
+    background-color: #69696969;
+    text-align: center;
+}
+
+.textArea {
+    width: 600px;
+    margin: 20px;
+}
+
+.button {
+    background-color: #083576;
+    color: white;
+    margin-top: 10px;
+}
